@@ -1,0 +1,2 @@
+print("Nama: Rasya sauky")
+print("Bahasa favorit: Python")
